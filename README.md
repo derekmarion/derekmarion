@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CragMentor](https://github.com/Mlew512/CragMentor)
 
-- 🌱 I’m currently learning **Kubernetes, Tekton, Github Actions**
+- 🌱 I’m currently learning **Kubernetes, Tekton, Github Actions, Rust**
 
 - 📫 How to reach me **derek.j.marion@gmail.com**
 

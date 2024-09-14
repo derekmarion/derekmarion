@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derek</h1>
 <h3 align="center">A passionate software engineer from Seattle</h3>
 
-- 🔭 I’m currently working on [StaticSiteGen](https://github.com/derekmarion/staticsitegen)
+- 🔭 I’m currently working on [MazeSolver](https://github.com/derekmarion/maze-solver)
 
 - 🌱 I’m currently learning **Rust**
 

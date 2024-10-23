@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **derek.j.marion [at] gmail.com**
+- 📫 How to reach me **github.magnify953 [at] passmail.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

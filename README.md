@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derek</h1>
 <h3 align="center">A passionate software engineer from Seattle</h3>
 
-- 🔭 I’m currently working on [BattleGame](https://github.com/derekmarion/battle_game)
+- 🔭 I’m currently working on [Pysteroids](https://github.com/derekmarion/pysteroids)
 
 - 🌱 I’m currently learning **Rust**
 

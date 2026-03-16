@@ -1,10 +1,10 @@
 # Hey, I'm Derek
 
-Software engineer in Seattle. I build tools with Python, TypeScript, and Rust — and I'm deep into AI-assisted development workflows using LLM agents, MCP servers, and agentic tooling.
+I build tools with Python, TypeScript, and Rust — and I'm deep into AI-assisted development workflows using LLM agents, MCP servers, and agentic tooling.
 
 ## Work
 
-**Software Engineer at [LiveRead](https://liveread.com)** — a podcast advertising platform. I work across the full stack building reporting and analytics features, data infrastructure, and internal tooling, with a focus on performance. My contributions include building out advertiser reporting pipelines, agency-facing features, and media kit functionality — spanning Django REST Framework on the backend and React on the frontend.
+**Software Engineer at [LiveRead](https://liveread.io)** — a podcast advertising platform. I work across the full stack building reporting and analytics features, data infrastructure, and internal tooling, with a focus on performance. My contributions include building out advertiser reporting pipelines, agency-facing features, and media kit functionality — spanning Django REST Framework on the backend and React on the frontend.
 
 ## Projects
 

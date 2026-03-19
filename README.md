@@ -8,7 +8,7 @@ I build tools with Python, TypeScript, and Rust — and I'm deep into AI-assiste
 
 ## Projects
 
-- **[timecard](https://github.com/derekmarion/timecard)** — AI-native CLI for 1099 contractor time tracking, invoicing, and Google Sheets sync. Includes an MCP server so AI agents can manage time entries directly.
+- **[timecard](https://github.com/derekmarion/timecard)** — AI-native CLI for 1099 contractor time tracking, invoicing, and data export. Includes an MCP server so AI agents can manage time entries directly.
 - **Study Abroad Advisor** *(academic, private repo)* — An intelligent study abroad advising platform built with FastAPI and a RAG pipeline. I designed and built the full data layer end-to-end: course data scraping, relational schema design, a PostgreSQL ingestion pipeline handling 21k+ course equivalencies across 247 institutions, full-text search, and REST APIs with bulk export endpoints for vector DB ingestion. AI-assisted development with Claude throughout — co-authored commits, agentic workflows for implementation and testing.
 - **[lazyvim-linux](https://github.com/derekmarion/lazyvim-linux)** — My personal Neovim config. LazyVim + custom tweaks for a terminal-first workflow.
 
